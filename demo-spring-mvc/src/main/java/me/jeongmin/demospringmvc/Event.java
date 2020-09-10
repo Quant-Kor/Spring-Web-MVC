@@ -4,13 +4,14 @@ import lombok.*;
 
 import java.time.LocalDateTime;
 
+
 @Getter @Setter
 @Builder @NoArgsConstructor @AllArgsConstructor
 public class Event {
 
-    private String name;
+    public String name;
 
-    private int limitOfEnrollment;
+    private int limitOfEnrollemnt;
 
     private LocalDateTime startDateTime;
 
