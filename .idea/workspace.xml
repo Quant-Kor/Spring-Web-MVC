@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c98d373-99d8-41df-9a75-032bbce2f3d3" name="Default Changelist" comment="" />
+    <list default="true" id="7c98d373-99d8-41df-9a75-032bbce2f3d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/웹 MVC 정리.txt" beforeDir="false" afterPath="$PROJECT_DIR$/웹 MVC 정리.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h8P6YPUG47r3hpWSxyzjnI0abo" />
   <component name="ProjectViewState">
@@ -30,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599389570203</updated>
       <workItem from="1599389572868" duration="248000" />
+      <workItem from="1599922922312" duration="68000" />
     </task>
     <servers />
   </component>
@@ -37,9 +44,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="250" y="120" key="new project wizard" timestamp="1599389825963">
+    <state x="634" y="269" key="FileChooserDialogImpl" timestamp="1599922950322">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
+    <state x="634" y="269" key="FileChooserDialogImpl/0.0.1707.1027/-1024.391.1024.728@0.0.1707.1027" timestamp="1599922950322" />
+    <state x="250" y="120" key="new project wizard" timestamp="1599922986491">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="250" y="120" key="new project wizard/0.0.1707.1027/-1024.391.1024.728@0.0.1707.1027" timestamp="1599922986491" />
     <state x="250" y="120" key="new project wizard/0.0.1707.1027/362.1600.1920.1160@0.0.1707.1027" timestamp="1599389825963" />
   </component>
 </project>
