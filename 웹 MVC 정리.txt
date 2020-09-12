@@ -161,9 +161,19 @@ configuration 애노테이션이 붙어있는 곳에 같이 쓰고  저 애노�
 이것을 사용하게 되면 좋은 점이 delegatingwebmvcconfiguration을 받아오게 되는데 이는 위임구조라 코드를 손쉽게 기존의 빈에다가 인터셉터나 메시지 컨버터 같은 것들을 조금만 수정해서 사용할 수 있는 그러한 장점이 있음
 
 
-WebMvcConfigurer
+
+
+WebMvcConfigurer --> 확장기능을 인터페이스를 통해 지원 webmvcconfigurer --> 뷰 리졸버를 직접 빈으로 등록안해도 이곳에서 제공하는 것으로 사용 할 수 있음
+
+스프링 부트없이 스프링웹 mvc를 사용하는 방법
+webmvcconfigurer가 제공하는 것들을 통해서 직접 일일히 다 설정하여 사용하는 것!
+
+
 
 스프링 부트의 스프링 MVC 설정
+뷰 리졸버를 보면 ContentNegotiationg뷰 리졸버가 우선순위가 가장 최 상위로 되어 있으면 나머지 1,2,3,4를 위임하는 구조를 띔. 타임리프 뷰 리졸버를 가지고 있음
+
+
 
 스프링 부트 JSP
 
